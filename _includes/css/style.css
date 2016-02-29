@@ -338,14 +338,8 @@ pre code {
     padding-left: 15px;
     padding-right: 15px;
   }
-  .promo .btns .btn {
-    margin-right: 0;
-    clear: both;
-    display: block;
-    margin-bottom: 30px;
-  }
-  .promo .title {
-    font-size: 40px;
+  .promo .logo {
+    width: 300px;
   }
   .promo .meta {
     margin-top: 60px;

@@ -5,3 +5,6 @@ color:
   dark: '#1e6162' #074f66
   darker: '#184e4e' #053c4e
   light: '#ecf9f9' #d6f3fc
+
+gems:
+ - jekyll-redirect-from
